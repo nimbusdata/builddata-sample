@@ -97,3 +97,11 @@ under CC-BY-4.0.
 
 - API and enterprise inquiries: nicolas@builddata.ca
 - Bug reports: https://github.com/NicolasPrimeau/Nimbus (or via the contact link on builddata.ca)
+
+## Mirror locations
+
+The same sample is published in three places — pick whichever you prefer:
+
+- **Hugging Face:** https://huggingface.co/datasets/nimbusdata/builddata-canadian-construction-sample
+- **Kaggle:** https://www.kaggle.com/datasets/niexon/builddata-canadian-construction-sample
+- **GitHub:** https://github.com/nimbusdata/builddata-sample
